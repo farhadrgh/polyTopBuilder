@@ -7,6 +7,8 @@ Usage:
 * Construct the protein-multi-polymer conjugates Gromacs topology, coordinate and VMD friendly vtf topology.
 * Visualize the coordinate/topology of protein conjugated with multiple polymers.
 * This code works for any given protein from PDB, a list of conjugation sites where the polymer attached to the protein surface, and different types of branched polymers similar to zwitterionic poly(carboxybetaine methacrylate) (pCB or pCBMA), poly[oligo(ethylene glycol) methyl methacrylate] (pOEGMA). 
-* Schematic representation of CG model is provided in the following. However minor modification might be required depending on the application.
+* Schematic representation of polymer CG model is provided in the following. However minor modification might be required depending on the application.
 
 <img src="PCBMA_POEGMA.png" width="300">
+
+[The CG model for side chaines of pOEGMA](https://github.com/farhadrgh/PEG_CG.git)
