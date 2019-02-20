@@ -6,6 +6,9 @@ This code was prepared to facilitate the study of the impact of polymer chemistr
 Capabilities:
 * Construct the Gromacs topology, coordinate and VMD friendly vtf topology for protein-multi-polymer conjugates.
 * Visualize the coordinate/topology of protein conjugated with multiple polymers.
+
+<img src="snapshot.png" width="400">
+
 * This code works for any given Martini CG model of proteins from PDB, a customized list of conjugation sites where the polymer is attached to the protein surface, and different types of branched polymers. 
 * Our [PEG CG model](https://github.com/farhadrgh/PEG_CG.git) parameters were used for the side chaines of pOEGMA.
 * Schematic representation of pCBMA and pOEGMA CG models are provided in the following. However minor modification may be required depending on the application.
