@@ -1,7 +1,7 @@
 # polyTopBuilder
 Topology/coordinate builder for protein-polymer conjugate coarse-grained models
 
-This code was prepared to facilitate the study of the impact of polymer chemistry, and degree of polymerization on bio-polymer conjugate structure and function using the polymer CG models similar to zwitterionic poly(carboxybetaine methacrylate) (pCB or pCBMA), poly[oligo(ethylene glycol) methyl methacrylate] (pOEGMA). However, the CG model parameters in this code are arbitrary and for the sake of presentation. 
+This code was prepared to facilitate the model preparation to study of the impact of polymer chemistry, and degree of polymerization on bio-polymer conjugate structure and function using the polymer CG models similar to zwitterionic poly(carboxybetaine methacrylate) (pCB or pCBMA), poly[oligo(ethylene glycol) methyl methacrylate] (pOEGMA). However, the CG model parameters in this code are arbitrary and for the sake of presentation. 
 
 Capabilities:
 * Construct the Gromacs topology, coordinate and VMD friendly vtf topology for protein-multi-polymer conjugates.
